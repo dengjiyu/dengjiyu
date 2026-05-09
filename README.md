@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Jesper 👋
 
-<!--
-**dengjiyu/dengjiyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Baidu Engineer by day, indie hacker by night. I build AI-powered tools for education and legal tech.
 
-Here are some ideas to get you started:
+### What I'm Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description | Link |
+|---------|-------------|------|
+| 🏛️ MockTrialOnline | AI mock trial simulator with full U.S. courtroom proceedings | [mocktrialonline.com](https://mocktrialonline.com) |
+| 🇨🇳 Be Chinese | Free AI Chinese tutor for HSK learners | [be-chinese.com](https://be-chinese.com) |
+| 🇬🇧 Learn English Fast | AI English tutor with real conversations at CEFR A1-C2 | [learningenglishfast.com](https://learningenglishfast.com) |
+
+### Tech Stack
+
+`Next.js` `TypeScript` `Tailwind CSS` `Vercel AI SDK` `Drizzle ORM` `Cloudflare Workers`
+
+### Connect
+
+- 🎬 [YouTube](https://www.youtube.com/@jiyudeng)
+- 🐦 [X / Twitter](https://x.com/deng_jiyu75055)
