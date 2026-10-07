@@ -9,6 +9,7 @@ Baidu Engineer by day, indie hacker by night. I build AI-powered tools for educa
 | 🏛️ MockTrialOnline | AI mock trial simulator with full U.S. courtroom proceedings | [mocktrialonline.com](https://mocktrialonline.com) |
 | 🇨🇳 Be Chinese | Free AI Chinese tutor for HSK learners | [be-chinese.com](https://be-chinese.com) |
 | 🇬🇧 Learn English Fast | AI English tutor with real conversations at CEFR A1-C2 | [learningenglishfast.com](https://learningenglishfast.com) |
+| 🌐 AI Search Vitals | Monitor AI brand mentions, citations, and competitor share of voice across ChatGPT, Claude, Gemini, and more | [aisearchvitals.com](https://aisearchvitals.com) |
 
 ### Tech Stack
 
